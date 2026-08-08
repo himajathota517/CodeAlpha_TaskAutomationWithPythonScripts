@@ -28,6 +28,10 @@ Move all JPG image files from a source folder to a destination folder.
 3. Run the Python file.
 4. JPG files will be moved automatically.
 
+## Note
+GitHub Codespaces usage limit was reached. 
+Please run the project locally using VS Code + Python 3.
+
 ## Sample Output
 ```
 Moved: image1.jpg
